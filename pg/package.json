@@ -1,0 +1,1 @@
+{"name":"com.phonegap.helloworld","version":"1.0.0","displayName":"Hello World","cordova":{"platforms":["ios"]},"dependencies":{"cordova-ios":"~4.3.1"}}
